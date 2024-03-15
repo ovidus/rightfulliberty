@@ -9,14 +9,7 @@ layout: layouts/post.njk
 css_library: /assets/styles/prism-base16-monokai.dark.css
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-### Section Header
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+MAK-90 (Model of the AK)-1990 – Semi-automatic only civilian version.[23] Later versions were modified to meet the requirements of a 1989 Executive Order by President George H. W. Bush prohibiting importation of certain 'assault rifle' configurations of military-style semi-automatic rifles such as the Norinco AKM/AK-47. These modifications included a one-piece U.S.-made thumbhole stock to replace the separate Chinese-made buttstock and pistol grip of the original AK rifle
 
 ``` text/2-3
 // this is a command
