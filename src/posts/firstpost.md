@@ -3,6 +3,9 @@ title: Norinko MAC90
 subtitle: 
 description: Norikno MAC90.
 date: 2024-04-16
+tags:
+  - Long-gun
+  - Used
 imgUrl: ./src/assets/images/mac90.jpg
 imgAlt: mac90
 imgSize: '(min-width: 30em) 50vw, 100vw'
