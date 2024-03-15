@@ -1,10 +1,10 @@
 ---
-title: This is my first post
-subtitle: Nothing special about this
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Norinko MAC90
+subtitle: 
+description: Norikno MAC90.
+date: 2024-04-16
 tags:
-  - another-tag
+  - long-gun
 layout: layouts/post.njk
 css_library: /assets/styles/prism-base16-monokai.dark.css
 ---
