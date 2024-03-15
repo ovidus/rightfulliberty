@@ -2,6 +2,7 @@
   "title": "Rightful Liberty Arms",
   "url": "https://yetty.netlify.app",
   "description": "Firearms Shop In Reno, Nevada.",
+  "repo": "https://github.com/ygoex/yetty",
   "feed": {
     "subtitle": "Your Local Small Town Firearm Shop.",
     "filename": "feed.xml",
@@ -15,5 +16,13 @@
   "author": {
     "name": "Michael Alaimo",
     "email": "rightfullibertyarms@outlook.com",
+    "username": "ygoex",
+    "url": "https://yetty.netlify.app/about-me/",
+    "github": "https://github.com/ygoex",
+    "twitter": "https://twitter.com/ygoex",
+    "codepen": "https://codepen.io/ygoex",
+    "dribbble": "https://dribbble.com/ygoex",
+    "behance": "https://www.behance.net/ygoex",
+    "linkedin": "https://www.linkedin.com/in/ygoex/"
   }
 }
