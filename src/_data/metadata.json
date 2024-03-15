@@ -1,10 +1,10 @@
 {
   "title": "Righful Liberty Arms",
   "url": "https://yetty.netlify.app",
-  "description": "Yet another Eleventy starter kit for my (& your) new projects with accessibility and performance in mind.",
+  "description": "Firearms Shop in Reno, NV.",
   "repo": "https://github.com/ygoex/yetty",
   "feed": {
-    "subtitle": "Yet another Eleventy starter kit for my (& your) new projects with accessibility and performance in mind.",
+    "subtitle": "Your Local Firearms Dealer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://yetty.netlify.app/"
@@ -14,8 +14,8 @@
     "url": "https://yetty.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Yolanda Gorriz Exposito",
-    "email": "helloygoex@gmail.com",
+    "name": "Michael Alaimo",
+    "email": "rightfullibertyarmsWoutlook.com",
     "username": "ygoex",
     "url": "https://yetty.netlify.app/about-me/",
     "github": "https://github.com/ygoex",
