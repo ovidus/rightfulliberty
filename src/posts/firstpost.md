@@ -43,6 +43,6 @@ css_library: /assets/styles/prism-base16-monokai.dark.css
 <p>We’re here to help you make the most of your gun purchase and your gun ownership. Along with that, we provide support and resources to help you maintain your guns. Gun ownership is a big responsibility, and its up to all of us to make sure we stay on top of maintenance and repairs, if and when necessary.</p>
 <p>Cleaning the outside of a gun is a simple, effective way to keep your firearm performing and looking its best for many years to come.</p>
 <p>As we suggested above, everybody has their favorite method of cleaning a guns outside. It often depends a great deal on personal preference. So make sure to do your research, ask other gun owners for advice, and turn to Rightful Liberty Arms with any questions.</p>
-<p>We are a Vancouver WA gun store. We can also provide specialty items to different parts of the Pacific Northwest. This includes Spokane, Washington, Seattle, Washington, Pendleton, Oregon, and Boise, Idaho.</p
+
 
 
