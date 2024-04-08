@@ -1,5 +1,5 @@
 ---
-title: Tips for a beginner with guns
+title: Tips for a beginner with Firearms
 subtitle: 
 description: Firearms Safety.
 date: 2024-05-08
