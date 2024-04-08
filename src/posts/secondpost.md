@@ -5,7 +5,8 @@ description: Hearing Safety.
 date: 2024-04-16
 tags:
   - Long-gun
-  - Used
+  - Pistol
+  - Hearing
 imgUrl: ./src/assets/images/earpro.jpg
 imgAlt: mac90
 imgSize: '(min-width: 30em) 50vw, 100vw'
