@@ -4,8 +4,8 @@ subtitle:
 description: Firearms Safety.
 date: 2024-05-08
 tags:
-  - Long-gun
-  - Used
+  - Safety
+  - Info
 imgUrl: ./src/assets/images/1911blur.png
 imgAlt: mac90
 imgSize: '(min-width: 30em) 50vw, 100vw'
