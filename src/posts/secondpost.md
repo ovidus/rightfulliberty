@@ -1,5 +1,5 @@
 ---
-title: Ear Protection For Shooting What You Should Know
+title: Ear Protection For Shooting
 subtitle: 
 description: Hearing Safety.
 date: 2024-04-16
