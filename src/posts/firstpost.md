@@ -1,7 +1,7 @@
 ---
 title: How To Clean The Outside Of A Gun
 subtitle: 
-description: Gun maintence.
+description: Gun Maintenance.
 date: 2024-04-16
 tags:
   - Long-gun
