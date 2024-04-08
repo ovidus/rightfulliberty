@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: About
-imgUrl: https://source.unsplash.com/2k3sPaLibbw/
+imgUrl: ./srssets/images/o.png/a
 imgAlt: Abstract black and white photograph of a person in a mountain.
 imgSize: '(min-width: 30em) 50vw, 100vw'
 pictureClass: grid-column-full
@@ -18,7 +18,7 @@ eleventyNavigation:
 Righful Liberty arms is a locally owned firearm and accessories store located in Reno, NV.
 
 
-Rightful Liberty Arms is owned and operated by Michael & Monica Alaimo. With over 20 Years in the fireatms industry Michael has the skills and knowledge to help you make the right decision when it comes to purchasing firearms, ammunition or accessories. 
+Rightful Liberty Arms is owned and operated by Michael & Monica Alaimo. With over 20 Years in the firearms industry Michael has the skills and knowledge to help you make the right decision when it comes to purchasing firearms, ammunition or accessories. 
 
 
 Michael continues to learn and stay up-to-date on the latest gun trends and technologies, passing along his expertise to his customers. He is in the shop Monday - Saturday working with customers and is happy to answer any firearm related questions/concerns.
