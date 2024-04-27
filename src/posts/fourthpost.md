@@ -9,7 +9,7 @@ tags:
   - Specials
   -Updates
 imgUrl: ./src/assets/images/specials_4_29.jpg
-imgAlt: SANDU
+imgAlt:
 imgSize: '(min-width: 30em) 50vw, 100vw'
 pictureClass: grid-column-full
 imgClass: img-full
@@ -17,14 +17,6 @@ imgBorderColor: '#a689ab'
 layout: layouts/post.njk
 css_library: /assets/styles/prism-base16-monokai.dark.css
 ---
-
-
-imgUrl: ./src/assets/images/axg.jpg
-imgAlt: SANDU
-imgSize: '(min-width: 30em) 50vw, 100vw'
-pictureClass: grid-column-full
-imgClass: img-full
-imgBorderColor: '#a689ab'
 
 
 <p>**Strong** __Sig Sauer P365 AXG Legion (New Arival)__</p>
