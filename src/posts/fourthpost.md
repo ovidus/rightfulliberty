@@ -14,6 +14,6 @@ pictureClass: grid-column-full
 imgClass: img-full
 imgBorderColor: '#a689ab'
 layout: layouts/post.njk
-css_library: /assets/styles/prism-base16-monokai.dark.css
+
 ---
 
