@@ -20,7 +20,11 @@ css_library: /assets/styles/prism-base16-monokai.dark.css
 
 
 imgUrl: ./src/assets/images/axg.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __Sig Sauer P365 AXG Legion (New Arival)__
@@ -38,7 +42,11 @@ it is the perfection of a carry pistol, period. P365-AXG LEGION, Carry What Defi
 
 
 imgUrl: ./src/assets/images/gunsiteglock.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __Gunsite Glock Service Pistol__
@@ -62,7 +70,11 @@ sized for the Glock 19.
 
 
 imgUrl: ./src/assets/images/qfix.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __Q The FIX in both 6.5cred and .308 (SUPPRESOR DEAL)__
@@ -86,7 +98,11 @@ Currently there is a deal to receive a free supressor from Q [Click here for inf
 
 
 imgUrl: ./src/assets/images/mk22.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __Barret Mk22 Model O .300 norma mag (SPECIAL PRICING)__
@@ -108,7 +124,11 @@ Finish 	COYOTE BROWN
 
 
 imgUrl: ./src/assets/images/colt.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __Colt Collection Longhorn 1911 45acp  (1 of 500)__
@@ -132,7 +152,11 @@ Specifications:
  
 
 imgUrl: ./src/assets/images/fn_scar_15p.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __FN SCAR 15P (Special Price)__
@@ -160,7 +184,11 @@ dependable, all SCARs have earned their stripes.
 
 
 imgUrl: ./src/assets/images/bond_bullpup.jpg
-
+imgAlt: SANDU
+imgSize: '(min-width: 30em) 50vw, 100vw'
+pictureClass: grid-column-full
+imgClass: img-full
+imgBorderColor: '#a689ab'
 
 
 **Strong** __Bond Arms BULLPUP9 (LTD Production)__
