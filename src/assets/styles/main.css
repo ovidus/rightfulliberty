@@ -246,7 +246,7 @@ h1,
   .h1 > .direct-link {
     display: none; }
 {
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 10px;
   -webkit-text-stroke-color: black;
 }
 
